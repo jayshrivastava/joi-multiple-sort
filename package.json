@@ -1,0 +1,28 @@
+{
+  "name": "joi-multiple-sort",
+  "version": "1.0.0",
+  "description": "Custom Joi Extension for Multiple Sort Query Validation and Implementation in Objection",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayshrivastava/joi-multiple-sort.git"
+  },
+  "keywords": [
+    "joi",
+    "sort"
+  ],
+  "author": "Jayant Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayshrivastava/joi-multiple-sort/issues"
+  },
+  "homepage": "https://github.com/jayshrivastava/joi-multiple-sort#readme",
+  "dependencies": {
+    "joi": "^14.1.0",
+    "lodash": "^4.17.11",
+    "objection": "^1.4.0"
+  }
+}
